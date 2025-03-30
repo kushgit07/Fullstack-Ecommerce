@@ -11,14 +11,6 @@ eShop.com is an e-Commerce website that enables users to shop through variety of
 
 Feel free to fork the project and change it to your likings. Try it out by cloning the repo to your local machine or download the zip
 
-## Prerequisites
-
-You need preferably the latest version of Chrome, and text editor.
-
-#### Go here for Chrome: https://www.google.com/chrome/
-
-#### VSCode is my go to: https://code.visualstudio.com/
-
 ## Installing
 
 To get started follow this guide:
