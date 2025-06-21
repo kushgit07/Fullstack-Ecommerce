@@ -64,7 +64,7 @@ const App = () => {
       </Routes>
       <Modal />
     </>
-  );
+  );            
 };
 
 export default App;
