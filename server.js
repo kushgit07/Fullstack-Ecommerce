@@ -49,8 +49,8 @@ app.post("/create-payment-intent", async (req, res) => {
 				country: shippingAddress.country,
 				// pin_code: shippingAddress.pin_code,
 			},
-			name: shippingAddress.name,
-			phone: shippingAddress.phone,
+			name: shippingAddress.name;
+			phone: shippingAddress.phone;
 		},
 	});
 
